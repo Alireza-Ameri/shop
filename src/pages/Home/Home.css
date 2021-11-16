@@ -1,0 +1,18 @@
+.main {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+
+  grid-gap: 20px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+

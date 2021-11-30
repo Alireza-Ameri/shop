@@ -1,5 +1,3 @@
-import React from "react";
-
 import "./Header.css";
 
 import { LinkContainer } from "react-router-bootstrap";
